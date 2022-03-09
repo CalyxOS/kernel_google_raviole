@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fc01661c_1a275d62",
+        "filename": "build_slider.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-03-09T22:33:31Z",
+      "side": 1,
+      "message": "Tiny conflict here, \"$@\" is newly added.",
+      "revId": "2ec76098b86798a4222d1747a5fadc6445174dd0",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
